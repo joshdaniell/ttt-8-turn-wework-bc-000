@@ -9,7 +9,6 @@ end
 def input_to_index (index)
   position = index.to_i
   position -= 1
-  # return position 
 end 
 
 def valid_move? (board, index)
